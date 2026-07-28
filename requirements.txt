@@ -1,0 +1,9 @@
+smolagents
+qdrant-client
+python-dotenv
+requests
+markdown
+fastapi
+uvicorn
+pydantic
+openai

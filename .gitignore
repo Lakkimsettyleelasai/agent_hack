@@ -1,0 +1,11 @@
+.env
+__pycache__/
+*.pyc
+node_modules/
+dist/
+build/
+treeoutput.txt
+GTFOBins.github.io/
+PayloadsAllTheThings/
+hacktricks/
+.DS_Store
